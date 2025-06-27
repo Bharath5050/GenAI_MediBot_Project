@@ -1,1 +1,1 @@
-fuck off 
+do it yourself
