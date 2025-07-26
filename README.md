@@ -123,6 +123,10 @@ pytest tests/
 4. Push the branch: `git push origin feature-name`  
 5. Open a Pull Request  
 
+## 📸 Results Screenshot
+
+![Results](https://github.com/Bharath5050/GenAI_MediBot_Project/blob/main/Results.png)
+
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE).
